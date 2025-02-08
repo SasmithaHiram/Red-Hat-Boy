@@ -1,0 +1,19 @@
+.background {
+    background-image: url("./Assets/background.png");
+    overflow: hidden;
+}
+
+.boy {
+    height: 330px;
+    margin-top: 244px;
+    position: absolute
+}
+
+.score {
+    font-size: 100px;
+    font-weight: bold;
+    color: red;
+    margin-top: 25px;
+    margin-left: 25px;
+    position: absolute;
+}
